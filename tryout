@@ -1,53 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Basic</title>
-    <link rel="stylesheet" href="CSS/Style.css">
-
-
-
-
-
+<title>Nemo project</title>
 </head>
 <body>
-
-
-<p class="one"><b>METROOOOOO!!!!</b></p>
-
-
-
-<p class="two">guns blazing</p>
-
-
-
-<p class="three">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <b>A ad adipisci aliquam assumenda autem,</b> <br>consectetur enim in libero nobis officia <b>pariatur sit suscipit</b> ut vel vitae.</br> Aliquid perferendis perspiciatis quod.</p>
-
-
-<p class="four">I'm a <b>beast</b> in programming.</p>
-
-
-
-<p class="five"><i>I'm a <u>beast</u> in programming.</i></p>
-
-
-
-<u><p class="one"><i><b>new</b></i></p></u>
-
-
-
-<i><strong><p class="one">TRAPCITY</p></strong></i>
-
-
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>Deserunt dignissimos eum eveniet explicabo</br> fuga harum natus nobis non <br>numquam obcaecati odio pariatur</br> possimus quam quasi quia quibusdam similique suscipit, ullam?</p>
-
-<img class="gta" src="images/gta%20v.jpg" alt="loading..."><br>
-<img class="hack" src="images/hack.jpeg" alt="loading..."><br>
-
-
-
-<a href="images/gta%20v.jpg">IMAGES</a>
+<h3>Finidng Nemo</h3>
 
 
 </body>
