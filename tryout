@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lists</title>
+
+    <style>
+        body{
+            background-color: #829828;
+            background-image: url("images/images.jpeg");
+
+        }
+
+
+
+        ul{
+            list-style-type: lower-roman;
+            color: blue;
+            background-color: blanchedalmond;
+            border: black 5px solid;
+
+
+
+        }
+
+
+        ol{
+            list-style-type: upper-roman;
+            color: firebrick;
+            background-color: cadetblue;
+            cursor: pointer;
+            border: indianred 5px solid;
+
+        }
+
+
+        ul>li:hover{
+            background-color: indianred;
+        }
+
+        ol > li:hover{
+            background-color: black;
+        }
+
+        #one > b{
+            color: darkslategrey;
+        }
+
+        #two > b{
+            color: firebrick;
+
+        }
+
+        p > title:hover{
+            color: darkblue;
+        }
+
+
+
+
+
+
+
+
+
+
+    </style>
+
+
+
+</head>
+<body>
+<p id="one" title="This is a title"><b>Metro</b> bought me a plane from Bezo</p>
+<h3>ORDERED LISTS</h3>
+<div>
+<ol>
+    <li>Onions</li>
+    <li>Tomatoes</li>
+    <li>Potatoes</li>
+    <li>Carrots</li>
+    <li>Capsicum</li>
+
+</ol>
+</div>
+
+<p>Metro boomin want some more</p>
+
+
+<div>
+<h3>UNODERED LISTS</h3>
+
+<p id="two"><b>Chasin'</b>the bloody bags</p>
+<ul>
+    <li>Red</li>
+    <li>Orange</li>
+    <li>Yellow</li>
+    <li>Green</li>
+    <li>Blue</li>
+    <li>Indigo</li>
+    <li>Violet</li>
+    <li>Purple</li>
+    <li>Azure</li>
+    <li>White</li>
+    <li>Indianred</li>
+    <li>Lime</li>
+    <li>Magenta</li>
+    <li>Khaki</li>
+    <li>Crimson</li>
+    <li>Pink</li>
+
+</ul>
+</div>
+
+</body>
+</html>
