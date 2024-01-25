@@ -2,114 +2,53 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Lists</title>
-
-    <style>
-        body{
-            background-color: #829828;
-            background-image: url("images/images.jpeg");
-
-        }
+    <title>Basic</title>
+    <link rel="stylesheet" href="CSS/Style.css">
 
 
-
-        ul{
-            list-style-type: lower-roman;
-            color: blue;
-            background-color: blanchedalmond;
-            border: black 5px solid;
-
-
-
-        }
-
-
-        ol{
-            list-style-type: upper-roman;
-            color: firebrick;
-            background-color: cadetblue;
-            cursor: pointer;
-            border: indianred 5px solid;
-
-        }
-
-
-        ul>li:hover{
-            background-color: indianred;
-        }
-
-        ol > li:hover{
-            background-color: black;
-        }
-
-        #one > b{
-            color: darkslategrey;
-        }
-
-        #two > b{
-            color: firebrick;
-
-        }
-
-        p > title:hover{
-            color: darkblue;
-        }
-
-
-
-
-
-
-
-
-
-
-    </style>
 
 
 
 </head>
 <body>
-<p id="one" title="This is a title"><b>Metro</b> bought me a plane from Bezo</p>
-<h3>ORDERED LISTS</h3>
-<div>
-<ol>
-    <li>Onions</li>
-    <li>Tomatoes</li>
-    <li>Potatoes</li>
-    <li>Carrots</li>
-    <li>Capsicum</li>
-
-</ol>
-</div>
-
-<p>Metro boomin want some more</p>
 
 
-<div>
-<h3>UNODERED LISTS</h3>
+<p class="one"><b>METROOOOOO!!!!</b></p>
 
-<p id="two"><b>Chasin'</b>the bloody bags</p>
-<ul>
-    <li>Red</li>
-    <li>Orange</li>
-    <li>Yellow</li>
-    <li>Green</li>
-    <li>Blue</li>
-    <li>Indigo</li>
-    <li>Violet</li>
-    <li>Purple</li>
-    <li>Azure</li>
-    <li>White</li>
-    <li>Indianred</li>
-    <li>Lime</li>
-    <li>Magenta</li>
-    <li>Khaki</li>
-    <li>Crimson</li>
-    <li>Pink</li>
 
-</ul>
-</div>
+
+<p class="two">guns blazing</p>
+
+
+
+<p class="three">Lorem ipsum dolor sit amet, consectetur adipisicing elit. <b>A ad adipisci aliquam assumenda autem,</b> <br>consectetur enim in libero nobis officia <b>pariatur sit suscipit</b> ut vel vitae.</br> Aliquid perferendis perspiciatis quod.</p>
+
+
+<p class="four">I'm a <b>beast</b> in programming.</p>
+
+
+
+<p class="five"><i>I'm a <u>beast</u> in programming.</i></p>
+
+
+
+<u><p class="one"><i><b>new</b></i></p></u>
+
+
+
+<i><strong><p class="one">TRAPCITY</p></strong></i>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>Deserunt dignissimos eum eveniet explicabo</br> fuga harum natus nobis non <br>numquam obcaecati odio pariatur</br> possimus quam quasi quia quibusdam similique suscipit, ullam?</p>
+
+<img class="gta" src="images/gta%20v.jpg" alt="loading..."><br>
+<img class="hack" src="images/hack.jpeg" alt="loading..."><br>
+
+
+
+<a href="images/gta%20v.jpg">IMAGES</a>
+
 
 </body>
 </html>
